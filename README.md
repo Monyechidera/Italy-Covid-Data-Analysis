@@ -1,2 +1,2 @@
 # Italy-Covid-Data-Analysis
-A short project with Python
+The purpose of this project is to analyze the covid data of Italy from when the first new case in Italy was recorded (22/02/2020) to 03/09/2020. The data set was gotten from Kaggle. From the analyses, Italy recorded the highest number of daily cases in March 2020. The date column was converted into a DateTime column so that the data can be analyzed by the months of the year.
